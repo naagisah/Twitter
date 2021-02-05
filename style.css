@@ -1,0 +1,38 @@
+body
+{ background-color: lightblue
+}
+h1
+{
+	text-align: center;
+	background-color: blue;
+}
+h2
+{
+	font-family: Verdana;
+	font-style: italic;
+	color: black;
+}
+p
+{
+	font-style: italic;
+	color: purple;
+}
+h3
+{
+  color: black;
+}
+h4
+{
+  font-style: Verdana;
+  color: black 
+}
+h5
+{
+  font-style: italic
+  color: black
+}
+h6
+{
+  font-style: italic
+  color: pink
+}
